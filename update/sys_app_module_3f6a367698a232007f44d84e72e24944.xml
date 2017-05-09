@@ -15,7 +15,7 @@
         <mobile_title>Copys</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_snc_media_librar_copy</name>
-        <order/>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3f6a367698a232007f44d84e72e24944</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Copys</sys_name>
         <sys_overrides/>
         <sys_package display_value="Media Library" source="x_snc_media_librar">3458a92c518a32007f446637134c6055</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Media Library">3458a92c518a32007f446637134c6055</sys_scope>
         <sys_update_name>sys_app_module_3f6a367698a232007f44d84e72e24944</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-09 15:17:30</sys_updated_on>
+        <sys_updated_on>2017-05-09 16:10:55</sys_updated_on>
         <timeline_page/>
         <title>Copys</title>
         <uncancelable>false</uncancelable>
